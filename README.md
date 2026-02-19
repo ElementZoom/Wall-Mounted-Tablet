@@ -1,6 +1,6 @@
 # Wall-Mounted-Tablet
 
-I've always wanted a wall-mounted tablet to display key home information—weather, temperature, doors, windows, camera feeds, and more. I finally made it happen with a clean setup: a 12.7-inch tablet mounted magnetically. The tablet also offers a battery charging limit to keep it away from swelling.
+I've always wanted a wall-mounted tablet to display key home information—l such as weather, temperature, doors, windows, camera feeds, and more. I finally made it happen with a clean setup: a 12.7-inch tablet mounted magnetically. The tablet also offers a battery charging limit to keep it away from swelling.
 
 If you are interested in the dashboard, you can look [here](https://github.com/ElementZoom/Material-Design-3-Dynamic-Tablet-Dashboard). I’m also available for hire if you’d like me to build a custom dashboard for you.
 
